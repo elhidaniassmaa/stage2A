@@ -1,0 +1,642 @@
+[
+  {
+    "code_direction": "DJAC",
+    "numero_article": "6",
+    "numero_tiret": 1,
+    "texte_clause": "السهر على تنفيذ سياسة الوزارة في مجال الطيران المدني",
+    "date_version": "30/12/2021",
+    "admin_article_id": 4
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "6",
+    "numero_tiret": 2,
+    "texte_clause": "السهر على مراقبة وتقييم تدخل الوزارة في مجال النقل الجوي، وعلى إعداد مخططات البنيات التحتية المطارية وتجهيزات الملاحة الجوية المدنية. كما تساهم، في إعداد مشاريع النصوص التشريعية والتنظيمية في مجال الطيران المدني والسهر على تطبيقها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 5
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "6",
+    "numero_tiret": 3,
+    "texte_clause": "تنسيق ومراقبة نشاط المنشآت المطارية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 6
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "6",
+    "numero_tiret": 4,
+    "texte_clause": "التنسيق مع المنظمات والهيآت الدولية والإقليمية التي تعمل في مجال الطيران المدني، وذلك بتنسيق مع وزارة الشؤون الخارجية والتعاون الإفريقي والمغاربة المقيمين بالخارج",
+    "date_version": "2021-12-30",
+    "admin_article_id": 7
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "6",
+    "numero_tiret": 5,
+    "texte_clause": "قيادة المفاوضات الدولية والسهر على تطبيق المعاهدات الدولية التي صادقت عليها المملكة في مجال الطيران المدني",
+    "date_version": "2021-12-30",
+    "admin_article_id": 8
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "6",
+    "numero_tiret": 6,
+    "texte_clause": "السهر على تطبيق توجهات الوزارة المتعلقة بمجال الوصاية على المؤسسات العمومية التي تعمل في مجال الطيران المدني",
+    "date_version": "2021-12-30",
+    "admin_article_id": 9
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "7",
+    "numero_tiret": 1,
+    "texte_clause": " تأمين سلامة الملاحة الجوية وانتظامها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 10
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "7",
+    "numero_tiret": 2,
+    "texte_clause": "توجيه وتحديد ومراقبة وتنسيق جميع أنشطة الملاحة الجوية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 11
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "7",
+    "numero_tiret": 3,
+    "texte_clause": "الإسهام في إعداد مشاريع النصوص التشريعية والتنظيمية المتعلقة بالملاحة الجوية والسهر على تطبيقها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 12
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "7",
+    "numero_tiret": 4,
+    "texte_clause": "السهر على احترام المعايير الدولية في مجال الملاحة الجوية المدنية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 13
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "7",
+    "numero_tiret": 5,
+    "texte_clause": "الإشراف ومراقبة سلامة وأمن الملاحة الجوية المدنية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 14
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "7",
+    "numero_tiret": 6,
+    "texte_clause": "تطوير التعاون مع المنظمات والمؤسسات الدولية والإقليمية في مجال الملاحة الجوية المدنية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 15
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "7",
+    "numero_tiret": 7,
+    "texte_clause": "إعداد مخطط للبنيات الأساسية المطارية والسهر على تنفيذه",
+    "date_version": "2021-12-30",
+    "admin_article_id": 16
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "7",
+    "numero_tiret": 8,
+    "texte_clause": "إعداد وثائق تنظيم مجال الملاحة الجوية المدنية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 17
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "7",
+    "numero_tiret": 9,
+    "texte_clause": "إعداد الوثائق التنظيمية المتعلقة بحماية البيئة المطارية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 18
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "7",
+    "numero_tiret": 10,
+    "texte_clause": "تبني المعايير والإجراءات المعمول بها على صعيد المنظمات الدولية والسهر على احترامها في مجال الملاحة الجوية المدنية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 19
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "8",
+    "numero_tiret": 1,
+    "texte_clause": " إنعاش خطوط النقل الجوي بتنسيق مع المتدخلين في القطاع والسهر على تتبع تدبيرها ومراقبتها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 20
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "8",
+    "numero_tiret": 2,
+    "texte_clause": "رصد نشاط النقل الجوي وتحليله والقيام بقياس جودة الخدمات",
+    "date_version": "2021-12-30",
+    "admin_article_id": 21
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "8",
+    "numero_tiret": 3,
+    "texte_clause": "إعداد اتفاقيات التعاون في مجال النقل الجوي والسهر على تطبيقها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 22
+  },
+  {
+    "code_direction": "DJAC",
+    "numero_article": "8",
+    "numero_tiret": 4,
+    "texte_clause": "الإسهام في إعداد مشاريع النصوص التشريعية والتنظيمية في مجال النقل الجوي",
+    "date_version": "2021-12-30",
+    "admin_article_id": 23
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 1,
+    "texte_clause": " إعداد سياسة الحكومة في مجال النقل الطرقي والسهر على تنفيذها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 24
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 2,
+    "texte_clause": "إعداد سياسة الحكومة في مجال السلامة الطرقية وتنسيق تنفيذها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 25
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 3,
+    "texte_clause": "القيام بالدراسات الاستراتيجية لقطاع النقل الطرقي والدراسات الضرورية من أجل تطويره",
+    "date_version": "2021-12-30",
+    "admin_article_id": 26
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 4,
+    "texte_clause": "الإسهام في إعداد مشاريع النصوص التشريعية والتنظيمية المتعلقة بالسلامة الطرقية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 27
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 5,
+    "texte_clause": "الإسهام في إعداد مشاريع النصوص التشريعية والتنظيمية المتعلقة بالنقل الطرقي والسهر على تطبيقها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 28
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 6,
+    "texte_clause": "تنظيم ومراقبة المهن المتعلقة بالنقل الطرقي",
+    "date_version": "2021-12-30",
+    "admin_article_id": 29
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 7,
+    "texte_clause": "إعداد مساطر مراقبة النقل الطرقي والسهر على تطبيقها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 30
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 8,
+    "texte_clause": "السهر على تنفيذ الاتفاقيات الدولية في مجال النقل الطرقي",
+    "date_version": "2021-12-30",
+    "admin_article_id": 31
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 9,
+    "texte_clause": "رصد أنشطة النقل الطرقي",
+    "date_version": "2021-12-30",
+    "admin_article_id": 32
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 10,
+    "texte_clause": "إعداد التصميم المديري الوطني للنقل، وتتبع التصاميم المديرية الجهوية للنقل",
+    "date_version": "2021-12-30",
+    "admin_article_id": 33
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 11,
+    "texte_clause": "إعداد وتتبع الدراسات التقنية للنقل المتداخل الأنماط",
+    "date_version": "2021-12-30",
+    "admin_article_id": 34
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 12,
+    "texte_clause": "إنجاز دراسات التكاليف وتعريفة النقل ومسك وتتبع مؤشرات أنشطتها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 35
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 13,
+    "texte_clause": "السهر على التتبع التقني لمخططات عمل المؤسسات الخاضعة للوصاية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 36
+  },
+  {
+    "code_direction": "DTR",
+    "numero_article": "9",
+    "numero_tiret": 14,
+    "texte_clause": "رصد حركية النقل الطرقي وتحليلها والقيام بقياس جودة الخدمات",
+    "date_version": "2021-12-30",
+    "admin_article_id": 37
+  },
+  {
+    "code_direction": "DMM",
+    "numero_article": "10",
+    "numero_tiret": 1,
+    "texte_clause": " إعداد السياسة الحكومية في مجال الملاحة التجارية وتطوير الأسطول الوطني والسهر على تنفيذها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 38
+  },
+  {
+    "code_direction": "DMM",
+    "numero_article": "10",
+    "numero_tiret": 2,
+    "texte_clause": "ضمان مراقبة وتفتيش سفن التجارة والترفيه والخدمة وسير التحقيقات البحرية المتعلقة بها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 39
+  },
+  {
+    "code_direction": "DMM",
+    "numero_article": "10",
+    "numero_tiret": 3,
+    "texte_clause": "مراقبة وتسيير حركية النقل البحري بمنطقة جبل طارق، والسهر على تقيد السفن بقواعد حركية الملاحة البحرية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 40
+  },
+  {
+    "code_direction": "DMM",
+    "numero_article": "10",
+    "numero_tiret": 4,
+    "texte_clause": "إنجاز الدراسات الاقتصادية والتقنية المرتبطة بالملاحة التجارية خاصة في مجال الملاحة البحرية ورجال البحر والعمل البحري والتكوين البحري والنقل البحري والأنشطة الملحقة بها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 41
+  },
+  {
+    "code_direction": "DMM",
+    "numero_article": "10",
+    "numero_tiret": 5,
+    "texte_clause": "الإسهام في إعداد مشاريع النصوص التشريعية والتنظيمية المرتبطة بجميع الأنشطة المتعلقة بالملاحة التجارية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 42
+  },
+  {
+    "code_direction": "DMM",
+    "numero_article": "10",
+    "numero_tiret": 6,
+    "texte_clause": "السهر، فيما يتعلق بسفن التجارة والترفيه والخدمة، على تطبيق النصوص التشريعية والتنظيمية المتعلقة بتسجيل رجال البحر والعمل البحري والنظافة وتنظيم العمل على متن السفن",
+    "date_version": "2021-12-30",
+    "admin_article_id": 43
+  },
+  {
+    "code_direction": "DMM",
+    "numero_article": "10",
+    "numero_tiret": 7,
+    "texte_clause": "ممارسة الإشراف على الإرشاد البحري",
+    "date_version": "2021-12-30",
+    "admin_article_id": 44
+  },
+  {
+    "code_direction": "DMM",
+    "numero_article": "10",
+    "numero_tiret": 8,
+    "texte_clause": "الإسهام، بتنسيق مع الإدارات والمؤسسات المعنية، في تنفيذ المخططات الوطنية المتعلقة بمجال محاربة التلوث البحري والوقاية منه وكذا مجال إنقاذ الأرواح البشرية في البحر",
+    "date_version": "2021-12-30",
+    "admin_article_id": 45
+  },
+  {
+    "code_direction": "DMM",
+    "numero_article": "10",
+    "numero_tiret": 9,
+    "texte_clause": "تنظيم ومراقبة استغلال خدمات النقل البحري ونشاط الوكيل البحري",
+    "date_version": "2021-12-30",
+    "admin_article_id": 46
+  },
+  {
+    "code_direction": "DMM",
+    "numero_article": "10",
+    "numero_tiret": 10,
+    "texte_clause": "رصد نشاط الملاحة البحرية وتحليله والقيام بقياس جودة الخدمات",
+    "date_version": "2021-12-30",
+    "admin_article_id": 47
+  },
+  {
+    "code_direction": "DSPCT",
+    "numero_article": "11",
+    "numero_tiret": 1,
+    "texte_clause": " تنسيق عمليات تحديد الأهداف الاستراتيجية للوزارة وبرامجها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 48
+  },
+  {
+    "code_direction": "DSPCT",
+    "numero_article": "11",
+    "numero_tiret": 2,
+    "texte_clause": "إعداد الدراسات الاقتصادية القطاعية المرتبطة بالأهداف الاستراتيجية للوزارة",
+    "date_version": "2021-12-30",
+    "admin_article_id": 49
+  },
+  {
+    "code_direction": "DSPCT",
+    "numero_article": "11",
+    "numero_tiret": 3,
+    "texte_clause": "تنسيق وإعداد مخططات التنمية الاقتصادية والاجتماعية المتعلقة بالقطاع والسهر على تتبع تنفيذها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 50
+  },
+  {
+    "code_direction": "DSPCT",
+    "numero_article": "11",
+    "numero_tiret": 4,
+    "texte_clause": "تنسيق وتتبع برامج المؤسسات العمومية الخاضعة لوصاية وزير النقل واللوجيستيك",
+    "date_version": "2021-12-30",
+    "admin_article_id": 51
+  },
+  {
+    "code_direction": "DSPCT",
+    "numero_article": "11",
+    "numero_tiret": 5,
+    "texte_clause": "السهر على تنسيق وتتبع وتقييم البرامج القطاعية للوزارة",
+    "date_version": "2021-12-30",
+    "admin_article_id": 52
+  },
+  {
+    "code_direction": "DSPCT",
+    "numero_article": "11",
+    "numero_tiret": 6,
+    "texte_clause": "الإسهام في إعداد ملفات طلب تمويل المشاريع والتفاوض مع المؤسسات المانحة والشركاء المعنيين",
+    "date_version": "2021-12-30",
+    "admin_article_id": 53
+  },
+  {
+    "code_direction": "DSPCT",
+    "numero_article": "11",
+    "numero_tiret": 7,
+    "texte_clause": "إعداد استراتيجية تنمية الأنشطة اللوجيستيكية والسهر على تنفيذها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 54
+  },
+  {
+    "code_direction": "DSPCT",
+    "numero_article": "11",
+    "numero_tiret": 8,
+    "texte_clause": "تتبع تنفيذ اتفاقيات التمويل وتنسيق عملية تقييم البرامج المتعلقة بها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 55
+  },
+  {
+    "code_direction": "DSPCT",
+    "numero_article": "11",
+    "numero_tiret": 9,
+    "texte_clause": "إعداد ميزانية الوزارة وتنفيذها والسهر على تتبعها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 56
+  },
+  {
+    "code_direction": "DSPCT",
+    "numero_article": "11",
+    "numero_tiret": 10,
+    "texte_clause": "العمل على تطوير هندسة تمويل المشاريع والبرامج",
+    "date_version": "2021-12-30",
+    "admin_article_id": 57
+  },
+  {
+    "code_direction": "DSPCT",
+    "numero_article": "11",
+    "numero_tiret": 11,
+    "texte_clause": "بلورة وتطوير الشراكة بين القطاعين العام والخاص",
+    "date_version": "2021-12-30",
+    "admin_article_id": 58
+  },
+  {
+    "code_direction": "DSPCT",
+    "numero_article": "11",
+    "numero_tiret": 12,
+    "texte_clause": "السهر على جمع ومعالجة ونشر المعطيات الإحصائية الخاصة بالوزارة",
+    "date_version": "2021-12-30",
+    "admin_article_id": 59
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 1,
+    "texte_clause": " السهر على إعداد وبلورة سياسة تدبير الموارد البشرية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 60
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 2,
+    "texte_clause": "تدبير الشؤون الإدارية للموارد البشرية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 61
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 3,
+    "texte_clause": "وضع استراتيجية الوزارة في مجال التكوين وتتبع تنفيذها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 62
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 4,
+    "texte_clause": "تنسيق إعداد وتنفيذ برامج تكوين وتدريب الموظفين والأعوان",
+    "date_version": "2021-12-30",
+    "admin_article_id": 63
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 5,
+    "texte_clause": "تدبير كتلة الأجور والسهر على التدبير التوقعي لمناصب العمل",
+    "date_version": "2021-12-30",
+    "admin_article_id": 64
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 6,
+    "texte_clause": "تدبير الحوار الاجتماعي مع المنظمات النقابية الممثلة للموظفين",
+    "date_version": "2021-12-30",
+    "admin_article_id": 65
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 7,
+    "texte_clause": "القيام بالدراسات القانونية المتعلقة بمجالات تدخل الوزارة",
+    "date_version": "2021-12-30",
+    "admin_article_id": 66
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 8,
+    "texte_clause": "إعداد مشاريع النصوص التشريعية والتنظيمية المتعلقة بمجالات تدخل الوزارة",
+    "date_version": "2021-12-30",
+    "admin_article_id": 67
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 9,
+    "texte_clause": "تأمين اليقظة القانونية وتقديم الاستشارة القانونية لمصالح الوزارة واتخاذ الإجراءات الضرورية للوقاية من المنازعات",
+    "date_version": "2021-12-30",
+    "admin_article_id": 68
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 10,
+    "texte_clause": "تتبع الدعاوى القضائية التي تنوب فيها الوزارة عن الدولة",
+    "date_version": "2021-12-30",
+    "admin_article_id": 69
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 11,
+    "texte_clause": "إعداد وتنفيذ الاستراتيجية الرامية إلى حماية الأملاك العامة للدولة",
+    "date_version": "2021-12-30",
+    "admin_article_id": 70
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 12,
+    "texte_clause": "تدبير الملك العمومي الخاضع لوصاية الوزارة، والسهر على تنفيذ المساطر المتعلقة باقتناء العقارات لا سيما مسطرة نزع الملكية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 71
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 13,
+    "texte_clause": "تدبير الممتلكات العقارية التابعة للوزارة",
+    "date_version": "2021-12-30",
+    "admin_article_id": 72
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 14,
+    "texte_clause": "توفير الدعم المحاسباتي والإداري لمصالح الوزارة",
+    "date_version": "2021-12-30",
+    "admin_article_id": 73
+  },
+  {
+    "code_direction": "DAAJJ",
+    "numero_article": "12",
+    "numero_tiret": 15,
+    "texte_clause": "وضع البرنامج السنوي للأشغال ومشتريات السلع والخدمات",
+    "date_version": "2021-12-30",
+    "admin_article_id": 74
+  },
+  {
+    "code_direction": "DSI",
+    "numero_article": "13",
+    "numero_tiret": 1,
+    "texte_clause": " إعداد استراتيجية الوزارة في مجال تطوير أنظمة المعلومات والرقمنة والسهر على تنفيذها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 75
+  },
+  {
+    "code_direction": "DSI",
+    "numero_article": "13",
+    "numero_tiret": 2,
+    "texte_clause": "إعداد التصميم المديري لأنظمة المعلومات بالوزارة",
+    "date_version": "2021-12-30",
+    "admin_article_id": 76
+  },
+  {
+    "code_direction": "DSI",
+    "numero_article": "13",
+    "numero_tiret": 3,
+    "texte_clause": "السهر على تنفيذ مخطط التحول الرقمي لجميع المساطر الإدارية واعتماد التقنيات الإعلامية الحديثة داخل الوزارة وتعميمها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 77
+  },
+  {
+    "code_direction": "DSI",
+    "numero_article": "13",
+    "numero_tiret": 4,
+    "texte_clause": "صيانة أنظمة المعلومات بالوزارة والسهر على سلامتها وحسن استغلالها",
+    "date_version": "2021-12-30",
+    "admin_article_id": 78
+  },
+  {
+    "code_direction": "DSI",
+    "numero_article": "13",
+    "numero_tiret": 5,
+    "texte_clause": "السهر على تطوير وصيانة الشبكة المعلوماتية للوزارة",
+    "date_version": "2021-12-30",
+    "admin_article_id": 79
+  },
+  {
+    "code_direction": "DSI",
+    "numero_article": "13",
+    "numero_tiret": 6,
+    "texte_clause": "السهر على تنفيذ سياسة الوزارة في مجال حماية أمن نظم المعلومات بالتنسيق مع الهيآت المعنية",
+    "date_version": "2021-12-30",
+    "admin_article_id": 80
+  },
+  {
+    "code_direction": "DSI",
+    "numero_article": "13",
+    "numero_tiret": 7,
+    "texte_clause": "اتخاذ الإجراءات الضرورية لحماية بنك المعلومات الخاصة بالوزارة",
+    "date_version": "2021-12-30",
+    "admin_article_id": 81
+  },
+  {
+    "code_direction": "DSI",
+    "numero_article": "13",
+    "numero_tiret": 8,
+    "texte_clause": "تدبير وحفظ وتثمين أرشيف الوزارة بتنسيق مع جميع المتدخلين، لا سيما مؤسسة أرشيف المغرب",
+    "date_version": "2021-12-30",
+    "admin_article_id": 82
+  },
+  {
+    "code_direction": "Cabinet du Ministère",
+    "numero_article": "Hors décret 2.21.968",
+    "numero_tiret": 1,
+    "texte_clause": "Le Cabinet du Ministre assiste directement le membre du gouvernement dans l'exercice de ses fonctions politiques et stratégiques : instruction des dossiers réservés, agenda politique, coordination avec le Parlement, relations de presse et communication institutionnelle, lien entre le cabinet et l'administration centrale",
+    "date_version": "2021-12-30",
+    "admin_article_id": 83
+  }
+]

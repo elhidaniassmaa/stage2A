@@ -1,0 +1,82 @@
+# Fichier contenant la liste des mots interdits pour la modération.
+# Un mot par ligne. Les lignes vides ou commençant par '#' sont ignorées.
+# Fichier généré automatiquement depuis la base SQLite — ne pas éditer manuellement.
+
+
+# Français
+
+abruti
+batard
+bouffon
+bâtard
+chieur
+corrompu
+couillon
+crétin
+débile
+enculé
+enfoiré
+escroc
+fumier
+idiot
+imbécile
+lâche
+menteur
+merde
+minable
+ordure
+pourri
+raclure
+salaud
+taré
+voleur
+
+# Arabe classique
+
+تافه
+جاهل
+حرامي
+حقير
+حقير جدا
+حمار
+حيوان
+خايب
+خايبة
+خسيس
+خنز
+زبالة
+زبل
+سخيف
+شوها
+غبي
+فاسد
+قذر
+كداب
+كذاب
+كلب
+لص
+لعين
+مسطي
+مكلگ
+منافق
+منعاك
+وسخ
+
+# Darija
+
+7imar
+chouha
+hmar
+kaddab
+kalb
+kelb
+khayb
+khayba
+khnez
+la3in
+mkelleg
+mn3ak
+mseti
+n3al
+skhoun rasso
+zbel
