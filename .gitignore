@@ -1,17 +1,94 @@
-.env
+# ==========================================
+# GitHub .gitignore - Smart Request Routing MTL
+# ==========================================
+
+# --- Environments & Virtualenvs ---
 .venv/
 venv/
 env/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Environment Variables & Secrets ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- Python Cache & Build Artifacts ---
 __pycache__/
-*.pyc
-*.pyo
-node_modules/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
 dist/
-*.log
-.DS_Store
-.idea/
-.vscode/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Testing & Coverage ---
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.noserc
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# --- Databases ---
+*.db
+*.sqlite
+*.sqlite3
+backend/gedec.db
+
+# --- Machine Learning Checkpoints & Heavy Weights ---
+results/
+checkpoint-*/
+models/classification_backup/
+models/classification_temp/
 *.safetensors
 *.bin
-models/
-results/
+*.pt
+*.pth
+*.onnx
+*.log
+
+# --- Node.js & Frontend ---
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.npm
+.eslintcache
+.stylelintcache
+
+# --- OS & Editor Files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo

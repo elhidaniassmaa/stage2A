@@ -1,9 +1,0 @@
-pandas
-openpyxl
-transformers
-torch
-scikit-learn
-langdetect
-fastapi
-streamlit
-sentence-transformers
